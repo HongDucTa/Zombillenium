@@ -1,0 +1,179 @@
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.pdb
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\App.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.exe
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.pdb
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csprojResolveAssemblyReference.cache
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.g.cs
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\App.g.cs
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.exe
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.pdb
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.pdb
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.baml
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Information.g.cs
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.g.cs
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Information.baml
+S:\Documents\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Information.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Information.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Retirer.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Trier.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Retirer.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\Trier.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.pdb
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csprojResolveAssemblyReference.cache
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Information.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Retirer.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Trier.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\App.g.cs
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Information.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Retirer.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\Trier.baml
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.Cache
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.exe
+C:\Users\micka\Documents\ESILV\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.pdb
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.pdb
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csprojResolveAssemblyReference.cache
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Information.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Retirer.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Trier.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\App.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Information.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Retirer.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\Trier.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.exe
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.pdb
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\accederALaListe.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\ajouter.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\changerAffectation.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\changerCagnotte.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\pooi.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\retirer.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\bin\Debug\Image\trier.png
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_Content.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.g.cs
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.baml
+C:\Users\Hông Duc\Desktop\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\accederALaListe.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\ajouter.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\changerAffectation.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\changerCagnotte.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\pooi.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\retirer.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\bin\Debug\Image\trier.png
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_Content.g.cs
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.baml
+D:\OneDrive\OneDrive - De Vinci\ESILV\Annee1\Semestre2\Programmation Orientee Objet et Interface\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csprojAssemblyReference.cache
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\accederALaListe.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\ajouter.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\changerAffectation.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\changerCagnotte.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\pooi.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\retirer.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\Image\trier.png
+D:\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe.config
+D:\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.exe
+D:\ProjetWPF\ProjetWPF\bin\Debug\ProjetWPF.pdb
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csprojAssemblyReference.cache
+D:\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\Information.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\Retirer.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\Trier.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\App.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_Content.g.cs
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.cache
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF_MarkupCompile.lref
+D:\ProjetWPF\ProjetWPF\obj\Debug\AccesListe.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\Ajouter.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\AjoutFichier.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\AjoutManuel.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\ChangerAffectation.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\ChangerCagnotte.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\Information.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\MainWindow.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\MenuPrincipal.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\Retirer.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\Trier.baml
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.g.resources
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.Properties.Resources.resources
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.GenerateResource.cache
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.csproj.CoreCompileInputs.cache
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.exe
+D:\ProjetWPF\ProjetWPF\obj\Debug\ProjetWPF.pdb
